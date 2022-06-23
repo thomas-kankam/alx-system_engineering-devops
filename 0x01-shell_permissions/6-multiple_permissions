@@ -1,4 +1,2 @@
-utable File  2 lines (2 sloc)  33 Bytes
-
 #!/bin/bash
 chmod ug+x,o+r hello
